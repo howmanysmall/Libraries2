@@ -339,4 +339,16 @@ return {
 		Description = "Class to make tagging instances easy and typesafe";
 		Documentation = "https://github.com/vocksel/Tag/blob/master/README.md";
 	};
+
+	TestEZ = {
+		URL = "Roblox/testez/tree/master/lib";
+		Description = "BDD-style test and assertion library for Roblox Lua";
+		Documentation = "https://roblox.github.io/testez/";
+	};
+
+	CameraShaker = {
+		URL = "Sleitnick/RbxCameraShaker/tree/master/src/CameraShaker";
+		Description = "Camera shake effects for Roblox games";
+		Documentation = "https://github.com/Sleitnick/RbxCameraShaker/blob/master/README.md";
+	};
 }
