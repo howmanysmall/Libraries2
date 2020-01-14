@@ -351,4 +351,22 @@ return {
 		Description = "Camera shake effects for Roblox games";
 		Documentation = "https://github.com/Sleitnick/RbxCameraShaker/blob/master/README.md";
 	};
+
+	Rocs = {
+		URL = "rocs-rbx/Rocs/tree/master/lib";
+		Description = "Roblox Component System";
+		Documentation = "https://rocs-rbx.github.io/Rocs/#rocs";
+	};
+
+	Scheduler = {
+		URL = "howmanysmall/Scheduler/tree/master/src";
+		Description = "A RunService.Heartbeat alternative to Roblox functions that use the legacy scheduler";
+		Documentation = "https://github.com/howmanysmall/Scheduler/blob/master/README.md";
+	};
+
+	recs = {
+		URL = "AmaranthineCodices/recs/tree/master/src";
+		Description = "Roblox ECS implementation";
+		Documentation = "https://github.com/AmaranthineCodices/recs/blob/master/README.md";
+	};
 }
