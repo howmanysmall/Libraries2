@@ -280,11 +280,14 @@ return {
 		ParentFolderPath = "Cmdr.Server"; -- Dot separated directory within Repository.Packages into which Cmdr will be installed
 	};
 
+	-- Succeeded by Rocs.
+	--[[
 	Aurora = {
 		URL = "evaera/Aurora/tree/master/lib";
 		Description = "A library that can manage status effects (known as \"Auras\") in your Roblox game";
 		Documentation = "https://github.com/evaera/Aurora/blob/master/README.md";
 	};
+	]]
 
 	Roact = {
 		URL = "Roblox/roact/tree/master/src";
@@ -293,13 +296,13 @@ return {
 	};
 
 	Rodux = {
-		URL = "Roblox/rodux/tree/master/lib";
+		URL = "Roblox/rodux/tree/master/src";
 		Description = "A state management library inspired by Redux";
 		Documentation = "https://roblox.github.io/rodux/";
 	};
 
 	["Roact-Rodux"] = {
-		URL = "Roblox/roact-rodux/tree/master/lib";
+		URL = "Roblox/roact-rodux/tree/master/src";
 		Description = "An ergonomic binding between Roact and Rodux";
 		Documentation = "https://roblox.github.io/roact-rodux/";
 	};
@@ -341,7 +344,7 @@ return {
 	};
 
 	TestEZ = {
-		URL = "Roblox/testez/tree/master/lib";
+		URL = "Roblox/testez/tree/master/src";
 		Description = "BDD-style test and assertion library for Roblox Lua";
 		Documentation = "https://roblox.github.io/testez/";
 	};
